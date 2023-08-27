@@ -83,7 +83,7 @@
 | 역할 | 팀장 </br> 지도제작 </br> 기획 </br> 영화선택 | 경로 계산 </br> 알고리즘 </br> 크롤링 | HTML / CSS </br> 레이아웃 </br> 총괄 | 경로선택 </br> 마이페이지 경로 | 촬영지 선택 </br> 호텔 / 식당 지도 | 회원가입 </br> 마이페이지 |
 
 # :scroll: <a name="function">기능</a>
-[상세보기](https://github.com/Psh230412/FirstWeb/blob/master/Presentation.md)
+[상세보기](https://github.com/Jisu-Seong/ScreenScenes/blob/master/Presentation.md)
 
 # :mag_right: <a name="#fullfill">보완할점</a>
 ### 1. 경로 테이블의 확장성을 고려하지 않아서 수정이 필요
